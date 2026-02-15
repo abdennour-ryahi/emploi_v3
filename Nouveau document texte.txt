@@ -1,0 +1,11 @@
+tarikat isti3mal:
+
+1 atji lhad dossier
+
+2 atclique 3la chemin wtktab cmd
+
+3 atkteb f cmd: emploi_env\Scripts\activate
+
+4 atkteb f cmd: streamlit run app.py
+
+5 bach déconicta mn l'application adir cltr w c f cmd
